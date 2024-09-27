@@ -1,0 +1,91 @@
+D:\Hamza Hadi VP project\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe.config
+D:\Hamza Hadi VP project\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe
+D:\Hamza Hadi VP project\Prayer Tracking System\bin\Debug\Prayer Tracking System.pdb
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.AssemblyReference.cache
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignIn.resources
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignUp.resources
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.Properties.Resources.resources
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.GenerateResource.cache
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.CoreCompileInputs.cache
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer Tracking System.exe
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer Tracking System.pdb
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmMain.resources
+D:\Hamza Hadi VP project\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmAdd.resources
+D:\vs code\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe.config
+D:\vs code\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe
+D:\vs code\Prayer Tracking System\bin\Debug\Prayer Tracking System.pdb
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.AssemblyReference.cache
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmAdd.resources
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmMain.resources
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignIn.resources
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignUp.resources
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.Properties.Resources.resources
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.GenerateResource.cache
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.CoreCompileInputs.cache
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer Tracking System.exe
+D:\vs code\Prayer Tracking System\obj\Debug\Prayer Tracking System.pdb
+D:\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe.config
+D:\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe
+D:\Prayer Tracking System\bin\Debug\Prayer Tracking System.pdb
+D:\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.AssemblyReference.cache
+D:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmAdd.resources
+D:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmMain.resources
+D:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignIn.resources
+D:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignUp.resources
+D:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.Properties.Resources.resources
+D:\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.GenerateResource.cache
+D:\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.CoreCompileInputs.cache
+D:\Prayer Tracking System\obj\Debug\Prayer Tracking System.exe
+D:\Prayer Tracking System\obj\Debug\Prayer Tracking System.pdb
+E:\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe.config
+E:\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe
+E:\Prayer Tracking System\bin\Debug\Prayer Tracking System.pdb
+E:\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.AssemblyReference.cache
+E:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmAdd.resources
+E:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmMain.resources
+E:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignIn.resources
+E:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignUp.resources
+E:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.Properties.Resources.resources
+E:\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.GenerateResource.cache
+E:\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.CoreCompileInputs.cache
+E:\Prayer Tracking System\obj\Debug\Prayer Tracking System.exe
+E:\Prayer Tracking System\obj\Debug\Prayer Tracking System.pdb
+F:\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe.config
+F:\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe
+F:\Prayer Tracking System\bin\Debug\Prayer Tracking System.pdb
+F:\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.AssemblyReference.cache
+F:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmAdd.resources
+F:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmMain.resources
+F:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignIn.resources
+F:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignUp.resources
+F:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.Properties.Resources.resources
+F:\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.GenerateResource.cache
+F:\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.CoreCompileInputs.cache
+F:\Prayer Tracking System\obj\Debug\Prayer Tracking System.exe
+F:\Prayer Tracking System\obj\Debug\Prayer Tracking System.pdb
+E:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmReport.resources
+D:\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmReport.resources
+D:\vs\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe.config
+D:\vs\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe
+D:\vs\Prayer Tracking System\bin\Debug\Prayer Tracking System.pdb
+D:\vs\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.AssemblyReference.cache
+D:\vs\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmAdd.resources
+D:\vs\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmMain.resources
+D:\vs\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmReport.resources
+D:\vs\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignIn.resources
+D:\vs\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignUp.resources
+D:\vs\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.Properties.Resources.resources
+D:\vs\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.GenerateResource.cache
+D:\vs\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.CoreCompileInputs.cache
+D:\vs\Prayer Tracking System\obj\Debug\Prayer Tracking System.exe
+D:\vs\Prayer Tracking System\obj\Debug\Prayer Tracking System.pdb
+D:\vs\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmReportSheet.resources
+D:\vs\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmSetAlram.resources
+D:\vs\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmAlarm.resources
+D:\vs\Prayer Tracking System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\vs\Prayer Tracking System\obj\Debug\Prayer T.3E917E9E.Up2Date
+D:\vs\Prayer Tracking System\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\vs\Prayer Tracking System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\vs\Prayer Tracking System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\vs\Prayer Tracking System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\vs\Prayer Tracking System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
