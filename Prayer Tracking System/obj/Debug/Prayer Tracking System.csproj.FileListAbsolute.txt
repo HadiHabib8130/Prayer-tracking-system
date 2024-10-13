@@ -89,3 +89,23 @@ D:\vs\Prayer Tracking System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
 D:\vs\Prayer Tracking System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
 D:\vs\Prayer Tracking System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
 D:\vs\Prayer Tracking System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.AssemblyReference.cache
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmAdd.resources
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmAlarm.resources
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmMain.resources
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmReport.resources
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmReportSheet.resources
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.frmSetAlram.resources
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignIn.resources
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.FrmSignUp.resources
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer_Tracking_System.Properties.Resources.resources
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.GenerateResource.cache
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer Tracking System.csproj.CoreCompileInputs.cache
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer T.3E917E9E.Up2Date
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer Tracking System.exe
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\obj\Debug\Prayer Tracking System.pdb
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe.config
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\bin\Debug\Prayer Tracking System.exe
+D:\projects\Desktop C#\Prayer Tracking system\HadiHabib8130\Prayer-tracking-system\Prayer Tracking System\bin\Debug\Prayer Tracking System.pdb

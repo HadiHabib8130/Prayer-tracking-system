@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 
@@ -12,7 +13,7 @@ namespace Prayer_Tracking_System
         public FrmSignUp(FrmSignIn frms)
         {
             InitializeComponent();
-            cn.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"D:\\vs code\\Prayer Tracking System\\PTS db.mdf\";Integrated Security=True;Connect Timeout=30;Encrypt=False";
+            cn.ConnectionString = ConfigurationManager.ConnectionStrings["MyCon"].ConnectionString;
             this.frmS = frms;
         }
 

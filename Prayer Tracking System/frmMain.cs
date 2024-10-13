@@ -22,7 +22,7 @@ namespace Prayer_Tracking_System
             this.UserID = UserId;
 
 
-            cn.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"D:\\vs code\\Prayer Tracking System\\PTS db.mdf\";Integrated Security=True;Connect Timeout=30;Encrypt=False";
+            cn.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"D:\\projects\\Desktop C#\\Prayer Tracking system\\HadiHabib8130\\Prayer-tracking-system\\Prayer Tracking System\\PTS db.mdf\";Integrated Security=True;Connect Timeout=30";
             AddRow();
             showdata();
         }

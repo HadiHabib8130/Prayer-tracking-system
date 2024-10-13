@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
@@ -20,7 +21,7 @@ namespace Prayer_Tracking_System
         public frmReportSheet(frmReport frm)
         {
             InitializeComponent();
-            cn.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"D:\\vs code\\Prayer Tracking System\\PTS db.mdf\";Integrated Security=True;Connect Timeout=30;Encrypt=False";
+            cn.ConnectionString = ConfigurationManager.ConnectionStrings["MyCon"].ConnectionString;
             frmReport = frm;
             if(frm.report == 0)
             {
